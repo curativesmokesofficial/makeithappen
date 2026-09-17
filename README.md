@@ -1,2 +1,0 @@
-# makeithappen
-griffin os app
